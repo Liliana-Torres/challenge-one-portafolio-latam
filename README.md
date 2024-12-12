@@ -1,24 +1,45 @@
-# Challenge ONE | Front End -  Portafolio
+### ¡Bienvenido a mi presentación
 
-<p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/169097543-d5ada41e-7db8-481d-9d89-cef4efdf7e05.png">
-</p>
+### Fue un desafio muy completo, me gusto mucho realizarlo y espero que se lleven una buena impresión de mi trabajo.
+#### Este proyecto está marcado con una estrella ⭐
 
 
-### ¡Bienvenido al proyecto base del Portafolio ! Pasos principales:
+### A continucación mostraré unas capturas de pantalla del trabajo que realicé
+
+
+### En estas primeras imagenes se muestra la versión para Escritorio
+
+<img src="./documents/screenDesktop1.png">
 ---
-#### Marca este proyecto con una estrella ⭐
-#### Sigue las lecciones y las instrucciones de contenido 📚
-
-### Analisando el repositorio!
+<img src="./documents/screenDesktop2.png">
 ---
-### Este repositorio base es una sugerencia inicial, en caso de que aún no tengas un diseño que refleje tu estilo y personalidad. Siéntete libre de modificar tu portafolio como desees, aquí encontrarás:
-#### 🔹index.html: Documento HTML concluído que puedes utilizar en tu proyecto. Las fuentes, los archivos CSS y Javascript ya están referenciados en el documento y todas las secciones contienen comentários que te ayudan a entender la estructura. Si quieres, puedes aventurarte y contruir tu propio HTML.
-#### 🔹style.css: Documento de CSS con instrucciones de estilo y algunas sugerencias de desarrollo.
-#### 🔹script.js: Documento vacío dónde puedes desarrollar tu lógica para validar el formulário, ESTA VALIDACIÓN ES CONSIDERADA UN DESAFÍO EXTRA POR LO QUE NO ES OBLIGATÓRIA SU IMPLEMENTACIÓN.
+<img src="./documents/screenDesktop3.png">
+---
+<img src="./documents/screenDesktop4.png">
+---
 
-#### Cuando clones o descargues el proyecto base, tendrás la siguiente presentación:
-<p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/169064699-f268715c-822c-4335-b066-97a1bc1ea8e1.png">
-</p>
+### A continuación las imagenes para la versión para tablets
 
+<img src="./documents/screenTablet1.png">
+---
+<img src="./documents/screenTablet2.png">
+---
+<img src="./documents/screenTablet3.png">
+---
+<img src="./documents/screenTablet4.png">
+
+### Y para finalizar, las imagenes para la versión para celulares
+
+<img src="./documents/screenIphone1.png">
+---
+<img src="./documents/screenIphone2.png">
+---
+<img src="./documents/screenIphone3.png">
+---
+<img src="./documents/screenIphone4.png">
+---
+<img src="./documents/screenIphone5.png">
+---
+<img src="./documents/screenIphone6.png">
+---
+<img src="./documents/screenIphone7.png">
